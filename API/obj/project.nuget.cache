@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7//b6xI8jmAFCTIqdrwlthRiwjoUvzh/FDFh44zficgZwkq/s/SJ2UayKvVxjaYdmQ4pcR+FHL3/DdzlpdJRjg==",
+  "dgSpecHash": "1KExjuKtmixPc4/lQQ7eciqwwPa+abnuhZaci6fZMPMQfSz6McE5Rx215M8hBsEcgBKiBxxbmjoE53yMcS30Vw==",
   "success": true,
-  "projectFilePath": "C:\\Reactivities\\APi\\API.csproj",
+  "projectFilePath": "C:\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nivog\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
