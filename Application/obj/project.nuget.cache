@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Jq3tsQ6CeGjc9MottEOJLaUQW5Ta8Twj245IudCossmT1HvXhs0+fyWoYLgAKEo6c5ZVO0SkLrs5d+6gSHjr7A==",
+  "dgSpecHash": "aZSlZaudmnZbZo3K5qF1gtrd8cBOlXVMJsNURpeZnnVSVNmUweHffqZ24lEPOOgHuFF6mJoIxcajB98NYm/vtg==",
   "success": true,
   "projectFilePath": "C:\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nivog\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\nivog\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
