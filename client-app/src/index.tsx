@@ -5,11 +5,15 @@ import App from './app/layout/App';
 import * as serviceWorker from './serviceWorker';
 import 'semantic-ui-css/semantic.min.css';
 import 'mobx-react-lite/batchingForReactDom';
+import { BrowserRouter } from 'react-router-dom';
+import ScrollToTop from './app/layout/ScrollToTop';
 
 ReactDOM.render(
-  //<React.StrictMode>
-    <App />, 
-  //</React.StrictMode>,
+  <BrowserRouter>
+    <ScrollToTop>
+      <App />
+    </ScrollToTop>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
