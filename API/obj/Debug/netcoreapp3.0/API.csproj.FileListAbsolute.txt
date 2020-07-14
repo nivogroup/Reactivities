@@ -118,3 +118,7 @@ C:\Reactivities\API\obj\Debug\netcoreapp3.0\API.csproj.CoreCompileInputs.cache
 C:\Reactivities\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.dll
 C:\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Reactivities\API\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Reactivities\API\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+C:\Reactivities\API\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Reactivities\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cs

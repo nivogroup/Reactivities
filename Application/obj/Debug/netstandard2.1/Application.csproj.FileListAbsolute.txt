@@ -11,4 +11,3 @@ C:\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
 C:\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
 C:\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
 C:\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
-C:\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache

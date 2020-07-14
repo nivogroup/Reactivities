@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VjVRxfJ3by06gfKHLwU5nx0aBzi3C7IxXkiuQcokWeiCUJagMURLzN8r/VrHan3vnGQSjjFFWBr9KZ22bGUJMg==",
+  "dgSpecHash": "RfAi18kH+QJZHcCARfD8pPmugB7GpATRnHZKffMV7958iihD4SYJaOjz9Yup/QiHVpSdY9HVjeurzsgjvI6bqw==",
   "success": true,
   "projectFilePath": "C:\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nivog\\.nuget\\packages\\fluentvalidation\\8.5.1\\fluentvalidation.8.5.1.nupkg.sha512",
+    "C:\\Users\\nivog\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.5.1\\fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
+    "C:\\Users\\nivog\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.5.1\\fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
