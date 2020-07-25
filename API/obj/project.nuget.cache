@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jazlrnUFvh0QfNUQp0opbmwM1Rxfu7O3tfnmg61HyC/0P5PfZFPoq4a2Oj668JNPpfChWk76BjOBA4+HoJg2gA==",
+  "dgSpecHash": "iS+ip8kJP8jR6e29IL7HwkZIEyRR7iDDvnbejtMCryixvAnDmhyxBy1Ozo4i0Gaipgc7fAxcFo9z9hS3frJ32Q==",
   "success": true,
-  "projectFilePath": "C:\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Reactivities\\APi\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nivog\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\nivog\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
