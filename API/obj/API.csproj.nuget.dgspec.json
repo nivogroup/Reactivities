@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reactivities\\APi\\API.csproj": {}
+    "C:\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Reactivities\\APi\\API.csproj": {
+    "C:\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reactivities\\APi\\API.csproj",
+        "projectUniqueName": "C:\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Reactivities\\APi\\API.csproj",
+        "projectPath": "C:\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\nivog\\.nuget\\packages\\",
-        "outputPath": "C:\\Reactivities\\APi\\obj\\",
+        "outputPath": "C:\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
